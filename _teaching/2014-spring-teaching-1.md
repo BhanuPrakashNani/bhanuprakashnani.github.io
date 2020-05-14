@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Drupal Organization"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Open Source"
+permalink: /open-source/drupal
+venue: "Core Contributor and Mentor"
+date: 2018-01-15
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+An Open Source software that includes a Content Management System and a development
+framework built on PHP and Javascript.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Profile](https://www.drupal.org/u/bhanuprakashnani)
