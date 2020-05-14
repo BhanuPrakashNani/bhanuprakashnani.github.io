@@ -11,15 +11,15 @@ main:
     
   - title: "Resume"
     url: /resume/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "Achievements"
     url: /achievements/
     
   - title: "Hackathons"
     url: /hackathons/
+    
+  - title: "Blog Posts"
+    url: /year-archive/
    
   - title: "Others"
     url: /others/
