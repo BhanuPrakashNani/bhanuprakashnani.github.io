@@ -1,5 +1,5 @@
 ---
-permalink: /others/
+permalink: /hackathons/
 title: ""
 excerpt: ""
 author_profile: true
