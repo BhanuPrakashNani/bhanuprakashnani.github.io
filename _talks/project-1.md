@@ -1,10 +1,11 @@
 ---
 title: "Resume Builder"
 collection: talks
-type: "Project"
+type: "Personal Project"
 permalink: /projects/project-1
 venue: "Java"
-date: 2012-03-01
+date: 2018-11-01
+location: "JDBC"
 ---
 [Project Details](https://github.com/BhanuPrakashNani/Resume-Builder-Java)
 
