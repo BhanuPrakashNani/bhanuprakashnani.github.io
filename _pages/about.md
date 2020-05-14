@@ -34,7 +34,7 @@ on physics phenomenons and mathematical expressions.
 Monitor and manage various tasks for Google code-In(GCI) 2019 for students under 18
 along with active interaction with students.
 
-**Google Summer of Code** - Developer Intern  
+**Google Summer of Code'18** - Developer Intern  
 [Drupal](https://www.drupal.org)  
 Port Commerce Instamojo [module](https://github.com/BhanuPrakashNani/Commerce-Instamojo) to Drupal 8 from Drupal 7. Commerce Instamojo is a
 payment gateway that allows users to execute payments through links.
