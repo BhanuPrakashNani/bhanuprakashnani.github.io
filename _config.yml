@@ -10,13 +10,13 @@ locale                   : "en-US"
 title                    : "Bhanu Prakash P"
 title_separator          : "-"
 name                     : &name "Bhanu Prakash Poluparthi"
-description              : &description " Dynamic and motivated open source enthusiast focused on Machine Learning and Artificial Intelligence. Adaptable and transformational leader with an ability to work independently and collectively. Organized team player with the ability to communicate effectively and efficiently. "
+description              : &description "About Me"
 url                      : https://bhanuprakashnani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BhanuPrakashNani/bhanuprakashnani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 55
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -102,11 +102,11 @@ author:
   instagram        : "bhanu_prakash_nani"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  https://www.linkedin.com/in/bhanu-prakash-poluparthi/
+  linkedin         : "bhanu-prakash-poluparthi"
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    :  https://stackoverflow.com/users/10225599/bhanu-prakash/
+  stackoverflow    : "10225599/bhanu-prakash"
   steam            :
   tumblr           :
   twitter          : "PBhanuPrakash99"
