@@ -1,12 +1,9 @@
 ---
-layout: archive
-title: "Resume"
-permalink: /resume/
+permalink: /resume
+title: ""
+excerpt: ""
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.resume reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+------------------
+[Download Resume](https://bhanuprakashnani.github.io//files/resume.pdf)
