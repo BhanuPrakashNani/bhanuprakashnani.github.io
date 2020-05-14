@@ -13,11 +13,11 @@ author_profile: true
 **Neural Networks and Deep Learning**  
 [Credential URL]()
 
-**Parallel, Concurrent and Distributed Programming in Java** - Specialization  
-[Credential URL](https://www.coursera.org/account/accomplishments/specialization/certificate/PAS27PL57TC8)  
-Parallel    - [Credential URL](https://www.coursera.org/account/accomplishments/certificate/WAXDAC8LPQUH)  
-Concurrent  - [Credential URL](https://www.coursera.org/account/accomplishments/certificate/ADYC46JC3J99)  
-Distributed - [Credential URL](https://www.coursera.org/account/accomplishments/certificate/LVW7PQJJG2WM)  
+**Parallel, Concurrent and Distributed Programming in Java**  
+Specialization - [Credential URL](https://www.coursera.org/account/accomplishments/specialization/certificate/PAS27PL57TC8)  
+Parallel    -    [Credential URL](https://www.coursera.org/account/accomplishments/certificate/WAXDAC8LPQUH)  
+Concurrent  -    [Credential URL](https://www.coursera.org/account/accomplishments/certificate/ADYC46JC3J99)  
+Distributed -    [Credential URL](https://www.coursera.org/account/accomplishments/certificate/LVW7PQJJG2WM)  
 
 
 ## Kaggle
