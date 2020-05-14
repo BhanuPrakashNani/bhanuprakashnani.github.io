@@ -7,7 +7,7 @@ venue: "Java"
 date: 2012-03-01
 ---
 
-[Resume Builder](https://github.com/BhanuPrakashNani/Resume-Builder-Java)
+[Project Details](https://github.com/BhanuPrakashNani/Resume-Builder-Java)
 --------------
 
 A java based Resume Builder that creates a resume file taking information through
