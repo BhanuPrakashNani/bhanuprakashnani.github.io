@@ -85,8 +85,8 @@ author:
   bio              : "ML Enthusiast"
   location         : "Kollam, Kerala"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,17 +99,17 @@ author:
   github           : "BhanuPrakashNani"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "bhanu_prakash_nani"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  https://www.linkedin.com/in/bhanu-prakash-poluparthi/
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :  https://stackoverflow.com/users/10225599/bhanu-prakash/
   steam            :
   tumblr           :
-  twitter          : "BhanuPrakash99"
+  twitter          : "PBhanuPrakash99"
   vine             :
   weibo            :
   xing             :
