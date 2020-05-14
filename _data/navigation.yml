@@ -17,3 +17,9 @@ main:
     
   - title: "Achievements"
     url: /achievements/
+    
+  - title: "Hackathons"
+    url: /hackathons/
+   
+  - title: "Others"
+    url: /others/
