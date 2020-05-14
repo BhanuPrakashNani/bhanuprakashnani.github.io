@@ -11,4 +11,4 @@ paperurl: 'http://bhanuprakashnani.github.io/files/article-2.pdf'
 An article for installing Docker in Linux also containing information about various Docker
 features.
 
-[Download paper here](http://bhanuprakashnani.github.io/files/article-2.pdf)
+[Download article here](http://bhanuprakashnani.github.io/files/article-2.pdf)
