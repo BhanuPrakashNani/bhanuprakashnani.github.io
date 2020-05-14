@@ -17,6 +17,9 @@ main:
     
   - title: "Hackathons"
     url: /hackathons/
+   
+  - title: "Certification"
+    url: /certifications/
     
   - title: "Blog Posts"
     url: /year-archive/
