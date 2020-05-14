@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<img src="icon.png" alt="amFOSS icon"  style="float: left; margin-right: 10px;" />
+
 Dynamic and motivated open source enthusiast focused on Machine Learning and Artificial Intelligence. Adaptable and transformational leader with an ability to work independently and collectively. Organized team player with the ability to communicate effectively and efficiently.
 
 
