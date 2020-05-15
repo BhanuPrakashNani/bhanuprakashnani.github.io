@@ -244,6 +244,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      
+en:
+  header_html:
+     image: /images/website.png
+
 
 # Sass/SCSS
 sass:
