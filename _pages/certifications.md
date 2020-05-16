@@ -11,7 +11,10 @@ author_profile: true
 [Credential URL](https://www.coursera.org/account/accomplishments/certificate/KJU4GLPQVUEV)
 
 **Neural Networks and Deep Learning**  
-[Credential URL]()
+[Credential URL](https://www.coursera.org/account/accomplishments/certificate/ZMFJFUGASEQS)
+
+**Neural Style Transfer with Tensorflow**  
+[Credential URL](https://www.coursera.org/account/accomplishments/certificate/33XJYEMTDJWA)
 
 **Parallel, Concurrent and Distributed Programming in Java**  
 Specialization - [Credential URL](https://www.coursera.org/account/accomplishments/specialization/certificate/PAS27PL57TC8)  
