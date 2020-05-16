@@ -27,8 +27,8 @@ along with active interaction with students.
 Guide and mentor students for the project [Resume-Builder](https://github.com/BhanuPrakashNani/Resume-Builder-Java) which creates a resume file taking information through responsive User Interface forms, made by using
 Swings.
 
-**Trainee**([cert](https://drive.google.com/file/d/1jAvA5zzc5fB2OSaCIfqZIzI9vrzFVn9o/view?usp=sharing)) 
-[Hindustan Coca Cola Beverages Pvt Ltd](https://www.coca-colacompany.com/)
+**Trainee**([cert](https://drive.google.com/file/d/1jAvA5zzc5fB2OSaCIfqZIzI9vrzFVn9o/view?usp=sharing))  
+[Hindustan Coca Cola Beverages Pvt Ltd](https://www.coca-colacompany.com/)  
 Training on the SAP Modules - P2P(Procure To Pay), PPC(Planning and Production
 Control), HRIS(Human Resource Information System), SCM(Supply Chain Management).
 
