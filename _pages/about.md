@@ -13,7 +13,8 @@ Dynamic and motivated open source enthusiast focused on Machine Learning and Art
 My Experience
 -------------
 
-**ML Intern at Innodatatics Pvt Ltd**([cert](https://drive.google.com/file/d/1ieckHTVRVkqSLahTBLfSvVMsfSnBULxC/view?usp=sharing))  
+**ML Intern**([cert](https://drive.google.com/file/d/1ieckHTVRVkqSLahTBLfSvVMsfSnBULxC/view?usp=sharing))  
+[Innodatatics Pvt Ltd](https://innodatatics.com/)  
 Worked on the HR Analytics project and implemented a BiLSTM model for resume
 tagging. Also wrote a web scraper for collecting the job descriptions dynamically.
 
@@ -26,7 +27,8 @@ along with active interaction with students.
 Guide and mentor students for the project [Resume-Builder](https://github.com/BhanuPrakashNani/Resume-Builder-Java) which creates a resume file taking information through responsive User Interface forms, made by using
 Swings.
 
-**Trainee at Hindustan Coca Cola Beverages Pvt Ltd**([cert](https://drive.google.com/file/d/1jAvA5zzc5fB2OSaCIfqZIzI9vrzFVn9o/view?usp=sharing))  
+**Trainee**([cert](https://drive.google.com/file/d/1jAvA5zzc5fB2OSaCIfqZIzI9vrzFVn9o/view?usp=sharing)) 
+[Hindustan Coca Cola Beverages Pvt Ltd](https://www.coca-colacompany.com/)
 Training on the SAP Modules - P2P(Procure To Pay), PPC(Planning and Production
 Control), HRIS(Human Resource Information System), SCM(Supply Chain Management).
 
