@@ -4,7 +4,7 @@ collection: talks
 type: "Hackathon Project"
 permalink: /projects/project-6
 venue: "Vidyut"
-date: 2018-06-15
+date: 2019-03-15
 location: "Django"
 ---
 [Project Details](https://github.com/BhanuPrakashNani/Vidyut-Hackathon)
