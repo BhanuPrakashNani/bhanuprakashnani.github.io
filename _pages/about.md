@@ -34,7 +34,7 @@ Control), HRIS(Human Resource Information System), SCM(Supply Chain Management).
 
 **GirlScript Summer of Code'19** - Mentor  
 [GirlScript Foundation](https://www.girlscript.tech/home)  
-Groot is a platform independent open-source assistant performing tasks like opening a
+[Groot](https://github.com/omi10859/groot) is a platform independent open-source assistant performing tasks like opening a
 website, playing videos on YouTube over voice command and much more.
 
 **KWoC’18** - Developer  
