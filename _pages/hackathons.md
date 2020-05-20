@@ -14,12 +14,15 @@ ZEIT NOW using the Zeit integration and deployment platform.
 **IHACK Hackathon, Participant | IIT MUMBAI, India**  
 Developed a neural network model that classifies different classes of items from
 Depth Images and RGB images using Tensorflow and Python. Integrated with an
-Android app named TensorflowClassify.
+Android app named [TensorClassify](https://github.com/BhanuPrakashNani/TensorClassify).
 
 **Hacko 1.0 Hackathon, Participant | Bangalore, India**  
 Developed a Web application that automates the experience for customers in the
 insurance industries to check the different types of insurances applied and claimed.
 Increases the trust factor in the customers through this feature.
+
+**Vidyut Hackathon, Participant | Vidyut Multifest, Amritapuri**  
+The project provides a mailroom portal - [AMP](https://github.com/BhanuPrakashNani/Vidyut-Hackathon) for Amrita University as part of the Vidyut’19 Hackathon.
 
 ## Summer Schools  
 **7th CSA Undergraduate Summer School, Attendee | IISc Bangalore, India**  
