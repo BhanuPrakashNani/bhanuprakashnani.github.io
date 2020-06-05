@@ -2,7 +2,7 @@
 title: "Resume Builder"
 collection: talks
 type: "Personal Project"
-permalink: /projects/project-6
+permalink: /projects/project-8
 venue: "Java"
 date: 2018-11-01
 location: "JDBC"
