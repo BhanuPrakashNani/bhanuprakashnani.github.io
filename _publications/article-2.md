@@ -6,9 +6,9 @@ excerpt: 'An article for installing Docker in Linux also containing information 
 features.'
 date: 2020-02-01
 venue: 'OpenSourceForYou Technical Magazine'
-paperurl: 'http://bhanuprakashnani.github.io/files/article-2.pdf'
+paperurl: 'https://opensourceforu.com/2020/03/docker-build-ship-and-run-any-app-anywhere/'
 ---
 An article for installing Docker in Linux also containing information about various Docker
 features.
 
-[Download article here](http://bhanuprakashnani.github.io/files/article-2.pdf)
+[Article](https://opensourceforu.com/2020/03/docker-build-ship-and-run-any-app-anywhere/)
