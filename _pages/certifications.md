@@ -13,7 +13,7 @@ author_profile: true
 **Neural Networks and Deep Learning**  
 [Credential URL](https://www.coursera.org/account/accomplishments/certificate/ZMFJFUGASEQS)
 
-**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**  
 [Credential URL](https://www.coursera.org/account/accomplishments/certificate/Y4FQGBV3P8QM)  
 
 **Neural Style Transfer with Tensorflow**  
