@@ -4,7 +4,7 @@ collection: talks
 type: "Hackathon Project"
 permalink: /projects/project-10
 venue: "Distributed Computing"
-date: 2019-03-15
+date: 2020-02-15
 location: "Java, RMI"
 ---
 [Project Details](https://github.com/BhanuPrakashNani/Consistency_In_Replicated_DB_Systems)
